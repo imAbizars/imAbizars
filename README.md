@@ -1,6 +1,6 @@
 Hi Im Dennis Abizar,Nice to meet you.
 -----
-This is My skill, Iam learning by Uni,Community & Platform
+This is My skill, Im learning by Uni,Community & Platform
 
 Programming Language
 
